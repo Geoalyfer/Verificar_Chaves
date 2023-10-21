@@ -1,0 +1,4 @@
+As chaves estão declaradas nas pastas de tabelas.
+Dentro da pasta de tabelas estão os bancos de dados de categorias modeladas para a arquitetura do banco de dados.
+Cada categoria pode ter uma ou várias chaves e são representadas pela diferença de cor do simbolo antes da descrição do nome da coluna.
+  
